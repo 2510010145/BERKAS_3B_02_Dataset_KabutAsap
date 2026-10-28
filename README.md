@@ -1,4 +1,3 @@
-# BERKAS_3B_02_Dataset_KabutAsap
 # Dataset Anotasi Deteksi Objek Citra Berasap
 **Repositori Tugas Mata Kuliah Sistem Berkas**
 
