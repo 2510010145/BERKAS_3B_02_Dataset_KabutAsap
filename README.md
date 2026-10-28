@@ -16,8 +16,8 @@ Repositori ini berisi kumpulan dataset citra kabut asap yang telah dilengkapi de
 ## Tabel Kontribusi Kelompok 2
 | Nama Anggota | NPM | Pembagian Tugas | Tautan Bukti Commit |
 | :--- | :--- | :--- | :--- |
-| **Muhammad Nazmi Noor Abdhie** (Ketua) | *[2510010145]* | Setup Repositori & Anotasi 20 Citra | *[Akan diisi link]* |
-| *[Nama Anggota 2]* | *[Isi NPM]* | Anotasi 20 Citra | *[Akan diisi link]* |
-| *[Nama Anggota 3]* | *[Isi NPM]* | Anotasi 20 Citra | *[Akan diisi link]* |
-| *[Nama Anggota 4]* | *[Isi NPM]* | Anotasi 20 Citra | *[Akan diisi link]* |
+| **Muhammad Nazmi Noor Abdhie** (Ketua) | *2510010145* | Setup Repositori & Anotasi 20 Citra | *[Akan diisi link]* |
+| *Muhammad Alvin Abrar* | *2510010248* | Anotasi 20 Citra | *[Akan diisi link]* |
+| *Muhammad Fajeri Ramadhan* | *2510010492* | Anotasi 20 Citra | *[Akan diisi link]* |
+| *Alfayet Romdoni* | *2510010275* | Anotasi 20 Citra | *[Akan diisi link]* |
 | *[Nama Anggota 5]* | *[Isi NPM]* | Anotasi 20 Citra | *[Akan diisi link]* |
