@@ -90,7 +90,7 @@ Daftar sumber gambar disimpan dalam file `sources.csv` yang berada di direktori 
 | Muhammad Alvin Abrar | 2510010248 | Anotasi 20 citra |
 | Muhammad Fajeri Ramadhan | 2510010492 | Anotasi 20 citra |
 | Alfayet Romdoni | 2510010275 | Anotasi 20 citra |
-| [Nama Anggota 5] | [NPM] | Anotasi 20 citra |
+| Bintang Anugrah Pratama | 2510010081 | Anotasi 20 citra |
 
 Bukti kontribusi setiap anggota berupa riwayat commit GitHub yang dilakukan menggunakan akun masing-masing.
 
