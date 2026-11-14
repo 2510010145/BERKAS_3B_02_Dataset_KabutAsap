@@ -37,9 +37,12 @@ Kategori objek yang digunakan dalam dataset:
 
 | ID Kelas | Nama Kelas | Keterangan |
 |---|---|---|
-| 0 | vehicle | Kendaraan |
-| 1 | building | Gedung atau bangunan |
-| 2 | person | Manusia |
+| 1 | vehicle | Kendaraan |
+| 2 | fire | titik api |
+| 3 | person | Manusia |
+| 4 | Building | bangunan |
+| 5 | Vegetation | tumbuhan |
+
 
 Urutan ID kelas harus konsisten pada seluruh file anotasi YOLO dan konfigurasi dataset.
 
